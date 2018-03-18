@@ -1,16 +1,16 @@
 {
-  "_from": "ares-data-cors-enabled@2.0.0",
-  "_id": "ares-data-cors-enabled@2.0.0",
+  "_from": "ares-data-cors@2.0.0",
+  "_id": "ares-data-cors@2.0.0",
   "_inBundle": false,
   "_integrity": "sha1-ew8Ju5fY3gziW9V9O7xSXGg4+rI=",
-  "_location": "/ares-data-cors-enabled",
+  "_location": "/ares-data-cors",
   "_phantomChildren": {},
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "ares-data-cors-enabled@2.0.0",
-    "name": "ares-data-cors-enabled",
-    "escapedName": "ares-data-cors-enabled",
+    "raw": "ares-data-cors@2.0.0",
+    "name": "ares-data-cors",
+    "escapedName": "ares-data-cors",
     "rawSpec": "2.0.0",
     "saveSpec": null,
     "fetchSpec": "2.0.0"
@@ -18,9 +18,9 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/ares-data-cors-enabled/-/ares-data-cors-enabled-2.0.0.tgz",
+  "_resolved": "https://registry.npmjs.org/ares-data-cors/-/ares-data-cors-2.0.0.tgz",
   "_shasum": "7b0f09bb97d8de0ce25bd57d3bbc525c6838fab2",
-  "_spec": "ares-data-cors-enabled@2.0.0",
+  "_spec": "ares-data-cors@2.0.0",
   "_where": "/Users/pro/Downloads/test/ares",
   "author": {
     "name": "David Kudera",
@@ -63,7 +63,7 @@
   ],
   "license": "MIT",
   "main": "./lib/Ares.js",
-  "name": "ares-data-cors-enabled",
+  "name": "ares-data-cors",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/Carrooi/Node-AresData.git"
